@@ -1,0 +1,10 @@
+.container {
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  width: -webkit-fill-available;
+  padding: 5px;
+  align-content: flex-end;
+  bottom: 0;
+  height: 100px;
+}
