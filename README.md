@@ -1,4 +1,4 @@
-# ReactJS - Basic TodoApp created with Material-UI
+# ReactJS - Basic Todo App created with Material-UI
 
 Link to YouTube video;
 
